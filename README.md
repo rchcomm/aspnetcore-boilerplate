@@ -20,7 +20,6 @@ solution structure
  + menu management
  + menu-role management
 
-
 > trayicon start
   1. blur
   2. blur

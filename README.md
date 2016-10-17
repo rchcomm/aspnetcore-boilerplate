@@ -2,7 +2,7 @@
 
 Web server on Desktop & Corss platform web server boilerplate
 ======
-design
+concept design
 -------
   1.trayicon ux
   2.aspnet web server, api service

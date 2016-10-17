@@ -1,10 +1,10 @@
 # aspnetcore-boilerplate
 
 Desktop
-  trayicon ux
-  aspnet web server, api service
-  using SQLite, LiteDB
-  EntityFrameworkCore
-  IDentityFramework - EndityFrameworkCore
-  IdentityServer 4
+  1.trayicon ux
+  2.aspnet web server, api service
+  3.using SQLite, LiteDB
+  4.EntityFrameworkCore
+  5.IDentityFramework - EndityFrameworkCore
+  6.IdentityServer 4
   

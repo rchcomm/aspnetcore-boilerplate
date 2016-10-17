@@ -14,11 +14,11 @@ concept design
 solution structure
 ------
 
->web server project
+> web server project
  + user management
  + role management
  + menu management
  + menu-role management
  
--trayicon start
--self host start project
+> trayicon start
+> self host start project

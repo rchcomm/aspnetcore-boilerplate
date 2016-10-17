@@ -10,4 +10,15 @@ concept design
   ##EntityFrameworkCore
   ##IDentityFramework - EndityFrameworkCore
   ##IdentityServer 4
-  
+
+solution structure
+------
+
+-web server project
+ + user management
+ + role management
+ + menu management
+ + menu-role management
+ 
+-trayicon start
+-self host start project

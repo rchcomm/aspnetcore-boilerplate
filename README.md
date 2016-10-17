@@ -21,5 +21,8 @@ solution structure
  + menu-role management
  
 > trayicon start
+  1. blur
+  2. blur
+  3. blur
 
 > self host start project

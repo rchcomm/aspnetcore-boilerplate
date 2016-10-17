@@ -21,4 +21,5 @@ solution structure
  + menu-role management
  
 > trayicon start
+
 > self host start project

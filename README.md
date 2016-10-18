@@ -26,7 +26,7 @@ solution structure
   + menu management
   + menu-role management
 
-> trayicon * console host start life cycle event
+> trayicon * console * windows service host start life cycle event
   + prestart
   + start
   + started
